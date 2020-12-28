@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1,ESPN
@@ -23,6 +24,9 @@ http://visiona4ktv.online:25461/live/1012CONEXXION/IYu7gnPrjo/1328.ts
 
 #EXTINF:-1, FOX SPORTS 3
 http://visiona4ktv.online:25461/live/1012CONEXXION/IYu7gnPrjo/1329.ts
+
+#EXTINF:-1, TUND SPORTS
+http://visiona4ktv.online:25461/live/1012CONEXXION/IYu7gnPrjo/9462.ts
 
 
 #EXTINF:-1,FOX
@@ -96,3 +100,15 @@ http://visiona4ktv.online:25461/live/1012CONEXXION/IYu7gnPrjo/911.ts
 
 #EXTINF:-1,RCN HD 
 http://visiona4ktv.online:25461/live/1012CONEXXION/IYu7gnPrjo/920.ts
+
+#EXTINF:-1, CARTOON NETWORD
+http://visiona4ktv.online:25461/live/1012CONEXXION/IYu7gnPrjo/1083.ts
+
+#EXTINF:-1, DISNEY XD
+http://visiona4ktv.online:25461/live/1012CONEXXION/IYu7gnPrjo/1087.ts
+
+#EXTINF:-1, BOB ESPONJA 
+http://visiona4ktv.online:25461/live/1012CONEXXION/IYu7gnPrjo/3662.ts
+
+#EXTINF:-1, JOHN WICK 24
+http://visiona4ktv.online:25461/live/1012CONEXXION/IYu7gnPrjo/17382.ts
